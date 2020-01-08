@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelstraPurpleCodeChallenge_v1", "TelstraPurpleCodeChallenge_v1\TelstraPurpleCodeChallenge_v1.csproj", "{42B6928B-51D3-48F6-B20F-46839C299110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelstraPurpleCodeChallenge_v1.Tests", "TelstraPurpleCodeChallenge_v1.Tests\TelstraPurpleCodeChallenge_v1.Tests.csproj", "{932B3A77-DDC0-4201-BFFA-750E150EB861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B6928B-51D3-48F6-B20F-46839C299110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B6928B-51D3-48F6-B20F-46839C299110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B6928B-51D3-48F6-B20F-46839C299110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B6928B-51D3-48F6-B20F-46839C299110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932B3A77-DDC0-4201-BFFA-750E150EB861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932B3A77-DDC0-4201-BFFA-750E150EB861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932B3A77-DDC0-4201-BFFA-750E150EB861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932B3A77-DDC0-4201-BFFA-750E150EB861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC56963D-1268-4BB4-940A-AF858BF2A8B8}
+	EndGlobalSection
+EndGlobal
